@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Factorial-Calculator/static/css/main.d32a520c.css",
+    "main.js": "/Factorial-Calculator/static/js/main.d764a7c0.js",
+    "static/js/787.d20de718.chunk.js": "/Factorial-Calculator/static/js/787.d20de718.chunk.js",
+    "static/media/logo.svg": "/Factorial-Calculator/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/Factorial-Calculator/index.html",
+    "main.d32a520c.css.map": "/Factorial-Calculator/static/css/main.d32a520c.css.map",
+    "main.d764a7c0.js.map": "/Factorial-Calculator/static/js/main.d764a7c0.js.map",
+    "787.d20de718.chunk.js.map": "/Factorial-Calculator/static/js/787.d20de718.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32a520c.css",
+    "static/js/main.d764a7c0.js"
+  ]
+}
