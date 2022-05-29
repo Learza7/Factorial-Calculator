@@ -18,7 +18,7 @@ const Factorial = () => {
         value={State.InputValue}
         onChange={(e) => store.dispatch({
             type: "factor/inputValueChanged",
-            payload: e.target.value
+            payload: Number(e.target.value)
         })}>
         </input>
         
