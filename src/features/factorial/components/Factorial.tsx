@@ -1,6 +1,6 @@
 
 import { useSelector } from "react-redux";
-import { store } from "../../../app/store";
+import { store } from "../../../app/store/store";
 import FactorState  from "../state/FactorState";
 import './Factorial.css'
 

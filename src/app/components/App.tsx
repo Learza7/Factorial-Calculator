@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Factorial from './features/factorial/components/Factorial';
+import Factorial from '../../features/factorial/components/Factorial';
 
 function App() {
   return (
